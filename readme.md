@@ -7,6 +7,7 @@
 - [Development](#development)
 - [CMS](#cms)
 - [Filament](#filament)
+- [Orchid](#orchid)
 
 ## Development
 
@@ -126,6 +127,10 @@ CMS Solutions in Laravel
 - [Layout - Panel Switch](https://github.com/bezhansalleh/filament-panel-switch)
 - [Layout - Alerts](https://github.com/CodeWithDennis/filament-simple-alert)
 - [Other - Exception Handling](https://github.com/bezhansalleh/filament-exceptions)
+
+## Orchid
+
+- [Orchid - Rapid Application Development](https://github.com/orchidsoftware/platform)
 
 ## Contribute
 
