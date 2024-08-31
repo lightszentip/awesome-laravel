@@ -20,6 +20,7 @@ All topics for laravel development
 ### Quality Check
 
 - [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+- [Laravel Pint - code style fixer for minimalists](https://github.com/laravel/pint)
 - [PHPStan](https://phpstan.org/)
 - [PHPLoc](https://github.com/sebastianbergmann/phploc)
 - [Laravel Pint](https://laravel.com/docs/11.x/pint)
