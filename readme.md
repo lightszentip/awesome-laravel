@@ -55,6 +55,7 @@ All topics for laravel development
 - [Laravel Eloquent Query Builder](https://github.com/spatie/laravel-query-builder)
 - [Laravel Eloquent Belogns To Through](https://github.com/staudenmeir/belongs-to-through)
 - [Laravel Eloquent Cross Search](https://github.com/protonemedia/laravel-cross-eloquent-search)
+- [Laravel Eloquent Power Joins](https://github.com/kirschbaum-development/eloquent-power-joins)
 
 ### Generator
 
