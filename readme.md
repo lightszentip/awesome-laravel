@@ -79,14 +79,12 @@ All topics for laravel development
 
 ## CMS
 
-About this section. Optional. Keep this short and focus on the list.
+CMS Solutions in Laravel
 
 - [Winter CMS](https://github.com/wintercms/winter)
 - [SKY CMS](https://github.com/lara-zeus/sky)
 
 ## Filament
-
-About this section. Optional. Keep this short and focus on the list.
 
 - [Filament](https://filamentphp.com/)
 
