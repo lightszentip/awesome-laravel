@@ -70,6 +70,7 @@ All topics for laravel development
 - [Laravel Pest Plugin](https://github.com/pestphp/pest-plugin-laravel)
 - [Pest Architecture Tests](https://www.honeybadger.io/blog/laravel-pest-architecture-testing/)
 - [Pest Architecture Test Methods](https://pestphp.com/docs/arch-testing)
+- [Pest Stressless Plugin](https://github.com/pestphp/pest-plugin-stressless)
 
 ### Design
 
