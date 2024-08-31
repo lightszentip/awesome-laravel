@@ -46,6 +46,7 @@ All topics for laravel development
 - [Laravel Permission](https://spatie.be/docs/laravel-permission/v6/introduction)
 - [Livewire](https://laravel-livewire.com/)
 - [Laravel Security](https://github.com/GrahamCampbell/Laravel-Security)
+- [Laravel Pail - Logs in command line](https://github.com/laravel/pail)
 
 ### Eloquent
 
