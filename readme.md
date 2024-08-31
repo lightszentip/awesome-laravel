@@ -7,6 +7,7 @@
 - [Development](#development)
 - [CMS](#cms)
 - [Filament](#filament)
+- [Orchid](#orchid)
 
 ## Development
 
@@ -20,6 +21,7 @@ All topics for laravel development
 ### Quality Check
 
 - [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+- [Laravel Pint - code style fixer for minimalists](https://github.com/laravel/pint)
 - [PHPStan](https://phpstan.org/)
 - [PHPLoc](https://github.com/sebastianbergmann/phploc)
 - [Laravel Pint](https://laravel.com/docs/11.x/pint)
@@ -46,6 +48,7 @@ All topics for laravel development
 - [Laravel Permission](https://spatie.be/docs/laravel-permission/v6/introduction)
 - [Livewire](https://laravel-livewire.com/)
 - [Laravel Security](https://github.com/GrahamCampbell/Laravel-Security)
+- [Laravel Pail - Logs in command line](https://github.com/laravel/pail)
 
 ### Eloquent
 
@@ -55,6 +58,7 @@ All topics for laravel development
 - [Laravel Eloquent Query Builder](https://github.com/spatie/laravel-query-builder)
 - [Laravel Eloquent Belogns To Through](https://github.com/staudenmeir/belongs-to-through)
 - [Laravel Eloquent Cross Search](https://github.com/protonemedia/laravel-cross-eloquent-search)
+- [Laravel Eloquent Power Joins](https://github.com/kirschbaum-development/eloquent-power-joins)
 
 ### Generator
 
@@ -123,6 +127,10 @@ CMS Solutions in Laravel
 - [Layout - Panel Switch](https://github.com/bezhansalleh/filament-panel-switch)
 - [Layout - Alerts](https://github.com/CodeWithDennis/filament-simple-alert)
 - [Other - Exception Handling](https://github.com/bezhansalleh/filament-exceptions)
+
+## Orchid
+
+- [Orchid - Rapid Application Development](https://github.com/orchidsoftware/platform)
 
 ## Contribute
 
