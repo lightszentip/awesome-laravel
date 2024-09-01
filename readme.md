@@ -31,7 +31,7 @@ All topics for laravel development
 - [PHP Laravel Code Sniffer Rule](https://github.com/PatricNox/laravel-phpcs)
 - [PHP PSALM](https://github.com/vimeo/psalm)
 - [PSALM Laravel plugin](https://github.com/psalm/psalm-plugin-laravel)
-- [DEPTract](https://github.com/qossmic/deptract)
+- [DEPTract](https://github.com/qossmic/deptrac)
 - [Laravel Grumphp](https://github.com/phpro/grumphp)
 - [PHPMD](https://github.com/phpmd/phpmd)
 
