@@ -1,4 +1,5 @@
 # Laravel
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flightszentip%2Fawesome-laravel-filament&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 > A list of tools, addons, templates and more for laravel applications
 
