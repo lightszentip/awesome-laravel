@@ -83,6 +83,11 @@ All topics for laravel development
 - [Hope UI](https://github.com/iqonicdesignofficial/hope-ui-laravel-dashboard)
 - [Admin Dashboard](https://github.com/cruip/laravel-tailwindcss-admin-dashboard-template)
 
+### Starter Kits
+
+- [Laravel Starter with Base Configuration](https://github.com/lightszentip/laravel-starter-base-app)
+- [Laravel Starter with Jetstream](https://github.com/lightszentip/laravel-starter-base-app/tree/jetstream)
+
 ## CMS
 
 CMS Solutions in Laravel
@@ -94,7 +99,7 @@ CMS Solutions in Laravel
 
 - [Filament](https://filamentphp.com/)
 
-### Starter Kits
+### Starter Kits for Filament
 
 - [Boilerplate Laravel](https://github.com/liberusoftware/boilerplate-laravel)
 - [Filament Jet Starter Kit](https://github.com/ArtMin96/filament-jet)
