@@ -83,6 +83,11 @@ All topics for laravel development
 - [Hope UI](https://github.com/iqonicdesignofficial/hope-ui-laravel-dashboard)
 - [Admin Dashboard](https://github.com/cruip/laravel-tailwindcss-admin-dashboard-template)
 
+### Starter Kits
+
+- [Laravel Starter with Base Configuration](https://github.com/lightszentip/laravel-starter-base-app)
+- [Laravel Starter with Jetstream](https://github.com/lightszentip/laravel-starter-base-app/tree/jetstream)
+
 ## CMS
 
 CMS Solutions in Laravel
