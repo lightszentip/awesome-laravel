@@ -99,7 +99,7 @@ CMS Solutions in Laravel
 
 - [Filament](https://filamentphp.com/)
 
-### Starter Kits
+### Starter Kits for Filament
 
 - [Boilerplate Laravel](https://github.com/liberusoftware/boilerplate-laravel)
 - [Filament Jet Starter Kit](https://github.com/ArtMin96/filament-jet)
