@@ -66,6 +66,7 @@ All topics for laravel development
 - [Laravel CRUD Generator](https://github.com/misterdebug/crud-generator-laravel)
 - [Laravel Bennett Treptow Migration Generator](https://github.com/bennett-treptow/laravel-migration-generator)
 - [Laravel Kitloong Migration Generator](https://github.com/kitloong/laravel-migrations-generator)
+- [Laravel Shift Blueprint Generator](https://github.com/laravel-shift/blueprint)
 
 ### Testing
 
