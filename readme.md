@@ -2,9 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flightszentip%2Fawesome-laravel-filament&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-> A list of tools, addons, templates and more for laravel applications
+A list of tools, addons, templates and more for laravel applications
 
-## Contents
+## Table of Contents
 
 - [Development](#development)
 - [CMS](#cms)
@@ -17,8 +17,8 @@ All topics for laravel development
 
 ### Docs
 
-- [Laravel Model Doc Generator](https://github.com/romanzipp/Laravel-Model-Doc)
-- [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
+- [Laravel Model Doc Generator](https://github.com/romanzipp/Laravel-Model-Doc) - Generate docs for models for easy autocomplete
+- [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generate docs for models for easy autocomplete
 
 ### Quality Check
 
